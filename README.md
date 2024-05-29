@@ -1,2 +1,0 @@
-# Springbootkafka
-springboot with kafka
